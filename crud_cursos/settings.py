@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'crud_cursos.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crud_cursos',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
+        'NAME': 'benu2t298lwlmvce8rrq',
+        'USER': 'uvs5y7riazbrutjv',
+        'PASSWORD': 'IdiDaaPSFm3db4TqHh5f',
+        'HOST': 'benu2t298lwlmvce8rrq-mysql.services.clever-cloud.com',
         'PORT': '3306',
     }
 }
